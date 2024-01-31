@@ -10,5 +10,8 @@ w=a/b
 
 r=a%b
 
+<<<<<<< HEAD
 q=x+y
 
+=======
+>>>>>>> c3f06fc (after error for merge)
