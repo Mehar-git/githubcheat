@@ -15,3 +15,7 @@ q=x+y
 
 =======
 >>>>>>> c3f06fc (after error for merge)
+
+
+
+dnfsdjgbuofjs
